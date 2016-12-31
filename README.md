@@ -41,6 +41,10 @@
     * Prority queues 优先队列
 <hr>
 
+
+
+
+
 <a href ="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/readings/">
 <b>A Gentle Introduction to Programming Using Python</b></a> | <small>CS/EE MIT 6-087</small>
 
@@ -59,7 +63,9 @@
 ####13.Classes and methods 类和方法
 ####14.Inheritance 继承
 ####15.Debugging(!important)
-<a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/lecture-notes/">Introduction to Programming in Java</a>
+
+<hr>
+<a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/lecture-notes/"><b>Introduction to Programming in Java</b></a>
 
 ####Types,variables,operators 类型变量操作符
 ####More types, methods, Conditions 更多类型方法条件
@@ -69,7 +75,9 @@
 ####Design,debugging,interface
 ####Inheritance,exceptions,file I/O
 
+<hr>
 <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/lecture-notes/"><b>Elements of Software Construction</b></a>
+
 #### Static checking 静态检查
     * static typing
     * Snapshot diagrams
