@@ -39,7 +39,7 @@
     * Using and creating libraries 制作和使用库
     * B-trees B树
     * Prority queues 优先队列
-
+<hr>
 
 <a href ="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/readings/">
 <b>A Gentle Introduction to Programming Using Python</b></a> | <small>CS/EE MIT 6-087</small>
@@ -75,7 +75,7 @@
     * Snapshot diagrams
     * Hacking VS Engineering
 #### Test-first programming 测试驱动开发
-#### State machines
+#### State machines 状态机
 #### Regular expressions and grammars 正则表达式及其语法
 #### Abstract data types
 #### Recursive data types
