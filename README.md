@@ -6,13 +6,9 @@
 
 
 
-CS/EE Profession MIT 6-087
+<small>CS/EE Profession MIT 6-087<small>
 <a href ="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/calendar/
 ">Practical Programming in C</a>
-
-
-
-
 #### Introduction
     * Writing, compiling, and debugging programs;
     * preprocessor macros; 
