@@ -105,6 +105,7 @@
     * Functional objects 函数对象
     * Higher-order function 高阶函数
 #### Little language
+
 <hr>
 <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/calendar/">Effective Programming in C and C++ </a>
 CS/EEMIT 6-S096
