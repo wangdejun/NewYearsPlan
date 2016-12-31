@@ -42,20 +42,67 @@
 
 
 <a href ="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/readings/">
-A Gentle Introduction to Programming Using Python</a> | 
-    A Gentle Introduction to Programming Using Python
-    1.The way of the program
-    2.Variables, expressions and statement
-    3.Functions
-    4.Conditions and recursion
-    5.Fruitfual functions
-    6.Iteration
-    7.Strings
-    8.Lists
-    9.Tuples
-    10.Dictionaries
-    11.Classes and objects
-    12.Classes and functions
-    13.Classes and methods
-    14.Inheritance
-    15.Debugging(!important)
+A Gentle Introduction to Programming Using Python</a> | <small>CS/EE MIT 6-087</small>
+
+####1.The way of the program
+####2.Variables, expressions and statement
+####3.Functions
+####4.Conditions and Recursion
+####5.Fruitfual functions
+####6.Iteration
+####7.Strings
+####8.Lists
+####9.Tuples
+####10.Dictionaries
+####11.Classes and objects
+####12.Classes and functions
+####13.Classes and methods 类和方法
+####14.Inheritance 继承
+####15.Debugging(!important)
+<a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/lecture-notes/">Introduction to Programming in Java</a>
+
+####Types,variables,operators 类型变量操作符
+####More types, methods, Conditions 更多类型方法条件
+####Loops and arrays
+####Objects and Classes
+####Access control, class scope,packages, Java API
+####Design,debugging,interface
+####Inheritance,exceptions,file I/O
+
+<a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/lecture-notes/">Elements of Software Construction</a>
+
+#### Static checking 静态检查
+#### Snapshot diagrams
+#### Test-first programming 测试驱动开发
+#### State machines
+#### Regular expressions and grammars 正则表达式及其语法
+#### Abstract data types
+#### Recursive data types
+#### Interpreters and visitors
+#### Concurrency
+#### Processes and sockets 套接字
+#### Thread safety 线程安全
+#### Synchronization 异步
+#### Graphical user interface 图形用户界面
+    <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/lecture-notes/MIT6_005F11_lec14.pdf">pdf</a>
+    * View trees
+    * Listener pattern 监听者模式
+    * Model-View-Controller pattern MVC模式
+    * Backgrounds threads
+#### Map,filter,reduce 
+    * <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/lecture-notes/MIT6_005F11_lec15.pdf">pdf</a>
+    * Map/filter/reduce 
+    * Lambda expressions Lambda表达式
+    * Functional objects 函数对象
+    * Higher-order function 高阶函数
+#### Little language
+
+
+
+
+
+
+
+
+
+
