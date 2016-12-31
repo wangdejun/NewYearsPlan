@@ -9,6 +9,7 @@
 <small>CS/EE Profession MIT 6-087<small>
 <a href ="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/calendar/
 ">Practical Programming in C</a>
+
 #### Introduction
     * Writing, compiling, and debugging programs;
     * preprocessor macros; 
@@ -37,6 +38,17 @@
     * strings 
     * sorting Algrithms 排序算法
 ####Linked Lists, Trees
-####Pointers to pinters,mutidimensional arrays,stack and queues
+    * Linked Lists 链表
+    * Trees 树
+####Pointers to pointers, mutidimensional arrays,stack and queues
+    * Pointers to pointers 指向指针的指针
+    * multidimensional arrays 多维数组
+    * Stack 栈
+    * Queues 队列
 ####Function pointers, hash table
-####Using and creating libraries， B-trees and prority queues
+    * function pointes
+    * hash table
+####Using and creating libraries，B-trees and prority queues
+    * Using and creating libraries 制作和使用库
+    * B-trees B数目
+    * Prority queues 优先队列
