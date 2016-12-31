@@ -110,28 +110,28 @@
 <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/calendar/">Effective Programming in C and C++ </a>
 CS/EEMIT 6-S096
 
-    #### Introduction to C 
-        * Welcome to the Memory Jungle
-    #### Subtleties of C 
-        * Data Structures and Floating-Point Arithmetic
-    #### Assembly;Secure Programming in C 
-    #### Style and Structures
-        * Transitions from C to C++
-    #### Object-Oriented C++:
-        * Abstraction, Inheritance, STL
-    #### Design Patterns:
-        * Higher-Level Program Design
-    #### Introduction to Projects:
-        * Unit Testing单元测试
-        * Third Parties libraries
-        * Code Review
-    #### Project Environments:
-        * Iterators,
-        * N-Body Problems,Setup
-    #### Visualization：
-        * OpenGl,Makefiles,Large Projects
-    #### Advanced Topics:
-        * Grab Bag & Pespective
+#### Introduction to C 
+    * Welcome to the Memory Jungle
+#### Subtleties of C 
+    * Data Structures and Floating-Point Arithmetic
+#### Assembly;Secure Programming in C 
+#### Style and Structures
+    * Transitions from C to C++
+#### Object-Oriented C++:
+    * Abstraction, Inheritance, STL
+#### Design Patterns:
+    * Higher-Level Program Design
+#### Introduction to Projects:
+    * Unit Testing单元测试
+    * Third Parties libraries
+    * Code Review
+#### Project Environments:
+    * Iterators,
+    * N-Body Problems,Setup
+#### Visualization：
+    * OpenGl,Makefiles,Large Projects
+#### Advanced Topics:
+    * Grab Bag & Pespective
 
 
 
