@@ -1,5 +1,5 @@
 <a href ="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/calendar/
-">Practical Programming in C</a><small>CS/EE Profession MIT 6-087<small>
+">Practical Programming in C</a> <small> | CS/EE Profession MIT 6-087<small>
 #### Introduction
     * Writing, compiling, and debugging programs; 编写，编译和调试程序
     * preprocessor macros; 
@@ -39,3 +39,23 @@
     * Using and creating libraries 制作和使用库
     * B-trees B树
     * Prority queues 优先队列
+
+
+<a href ="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/readings/">
+A Gentle Introduction to Programming Using Python</a> | 
+    A Gentle Introduction to Programming Using Python
+    1.The way of the program
+    2.Variables, expressions and statement
+    3.Functions
+    4.Conditions and recursion
+    5.Fruitfual functions
+    6.Iteration
+    7.Strings
+    8.Lists
+    9.Tuples
+    10.Dictionaries
+    11.Classes and objects
+    12.Classes and functions
+    13.Classes and methods
+    14.Inheritance
+    15.Debugging(!important)
