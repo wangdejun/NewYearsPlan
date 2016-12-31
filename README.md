@@ -84,13 +84,13 @@ A Gentle Introduction to Programming Using Python</a> | <small>CS/EE MIT 6-087</
 #### Thread safety 线程安全
 #### Synchronization 异步
 #### Graphical user interface 图形用户界面
-    <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/lecture-notes/MIT6_005F11_lec14.pdf">pdf</a>
+<a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/lecture-notes/MIT6_005F11_lec14.pdf">pdf</a>
     * View trees
     * Listener pattern 监听者模式
     * Model-View-Controller pattern MVC模式
     * Backgrounds threads
 #### Map,filter,reduce 
-    * <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/lecture-notes/MIT6_005F11_lec15.pdf">pdf</a>
+* <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/lecture-notes/MIT6_005F11_lec15.pdf">pdf</a>
     * Map/filter/reduce 
     * Lambda expressions Lambda表达式
     * Functional objects 函数对象
