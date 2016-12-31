@@ -1,5 +1,5 @@
 <a href ="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/calendar/
-">Practical Programming in C</a> <small> | CS/EE Profession MIT 6-087<small>
+"><b>Practical Programming in C</b></a> <small> | CS/EE Profession MIT 6-087<small>
 #### Introduction
     * Writing, compiling, and debugging programs; 编写，编译和调试程序
     * preprocessor macros; 
@@ -42,7 +42,7 @@
 
 
 <a href ="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/readings/">
-A Gentle Introduction to Programming Using Python</a> | <small>CS/EE MIT 6-087</small>
+<b>A Gentle Introduction to Programming Using Python</b></a> | <small>CS/EE MIT 6-087</small>
 
 ####1.The way of the program
 ####2.Variables, expressions and statement
@@ -69,10 +69,11 @@ A Gentle Introduction to Programming Using Python</a> | <small>CS/EE MIT 6-087</
 ####Design,debugging,interface
 ####Inheritance,exceptions,file I/O
 
-<a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/lecture-notes/">Elements of Software Construction</a>
-
+<a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/lecture-notes/"><b>Elements of Software Construction</b></a>
 #### Static checking 静态检查
-#### Snapshot diagrams
+    * static typing
+    * Snapshot diagrams
+    * Hacking VS Engineering
 #### Test-first programming 测试驱动开发
 #### State machines
 #### Regular expressions and grammars 正则表达式及其语法
@@ -84,7 +85,7 @@ A Gentle Introduction to Programming Using Python</a> | <small>CS/EE MIT 6-087</
 #### Thread safety 线程安全
 #### Synchronization 异步
 #### Graphical user interface 图形用户界面
-<a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/lecture-notes/MIT6_005F11_lec14.pdf">pdf</a>
+* <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/lecture-notes/MIT6_005F11_lec14.pdf">pdf</a>
     * View trees
     * Listener pattern 监听者模式
     * Model-View-Controller pattern MVC模式
@@ -97,7 +98,7 @@ A Gentle Introduction to Programming Using Python</a> | <small>CS/EE MIT 6-087</
     * Higher-order function 高阶函数
 #### Little language
 
-
+MIT6.S096
 
 
 
