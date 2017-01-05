@@ -14,6 +14,11 @@
 <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/calendar/">
 <b>5.Effective Programming in C and C++ </b></a><small>CS/EEMIT 6-S096</small>
 
+<hr>
+<hr>
+#Algorithms
+<a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/calendar/">Introduction to Algorithms</a>
+
 
 
 
